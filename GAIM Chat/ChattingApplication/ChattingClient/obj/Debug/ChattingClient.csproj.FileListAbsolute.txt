@@ -1,0 +1,22 @@
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Debug\ChattingClient.exe.config
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Debug\ChattingClient.exe
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Debug\ChattingClient.pdb
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.csprojResolveAssemblyReference.cache
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\MainWindow.g.cs
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\App.g.cs
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\ChattingClient_MarkupCompile.cache
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\ChattingClient_MarkupCompile.lref
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\MainWindow.baml
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.g.resources
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.Properties.Resources.resources
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.csproj.GenerateResource.Cache
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.exe
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.pdb
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Debug\ChattingInterfaces.dll
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingClient\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Ge\Desktop\VSbackup\ChattingApplication2\ChattingApplication\ChattingClient\bin\Debug\ChattingClient.exe.config
+C:\Users\Ge\Desktop\VSbackup\ChattingApplication2\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.exe
+C:\Users\Ge\Desktop\VSbackup\ChattingApplication2\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.pdb
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingClient\bin\Debug\ChattingClient.exe.config
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.exe
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingClient\obj\Debug\ChattingClient.pdb

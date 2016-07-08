@@ -1,0 +1,14 @@
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.exe.config
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.exe
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.pdb
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingInterfaces.dll
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.exe
+C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.pdb
+C:\Users\Ge\Desktop\VSbackup\ChattingApplication2\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.exe.config
+C:\Users\Ge\Desktop\VSbackup\ChattingApplication2\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.exe
+C:\Users\Ge\Desktop\VSbackup\ChattingApplication2\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.pdb
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.exe.config
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.exe
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.pdb
