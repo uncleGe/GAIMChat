@@ -1,4 +1,5 @@
-﻿using System.ServiceModel;
+﻿using System.Collections.Generic;
+using System.ServiceModel;
 
 namespace ChattingInterface
 {
@@ -9,6 +10,12 @@ namespace ChattingInterface
         int Login(string userName);
 
         [OperationContract]
+        void Logout();
+
+        [OperationContract]
         void SendMessageToAll(string message, string userName);
+
+        [OperationContract]
+        List<string> GetCurrentUsers();
     }
 }

@@ -5,13 +5,20 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ChattingClient"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="GAIM" Height="350" Width="525" Foreground="Black" Background="#FF64B5F6">
     <Grid x:Name="WelcomeLabel">
-        <Button x:Name="LoginButton" Content="Login" Margin="147,11.5,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75" Click="LoginButton_Click"/>
-        <TextBox x:Name="UserNameTextBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox x:Name="TextDisplayTextBox" Margin="10,54"/>
-        <Button x:Name="SendButton" Content="Send" Margin="0,0,10,10" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="68.535" Height="24" IsDefault="True" Click="SendButton_Click"/>
-        <TextBox x:Name="MessageTextBox" Height="23" Margin="10,0,97.035,11" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
-        <Label x:Name="label" HorizontalAlignment="Right" Margin="0,4.183,10,0" VerticalAlignment="Top" Width="139.993" FontSize="16" AutomationProperties.IsRequiredForForm="True" Content="" AutomationProperties.IsRowHeader="True"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="377*"/>
+            <ColumnDefinition Width="140*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="LoginButton" Content="Login" Margin="147,11.5,155.25,0" VerticalAlignment="Top" Click="LoginButton_Click" Background="#FF1565C0" Foreground="White" BorderBrush="White"/>
+        <TextBox x:Name="UserNameTextBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" BorderBrush="#FF1565C0"/>
+        <TextBox x:Name="TextDisplayTextBox" Margin="10,54,22.059,54" BorderBrush="#FF1565C0"/>
+        <Button x:Name="SendButton" Content="Send" Margin="45.509,0,25.706,11" VerticalAlignment="Bottom" Height="24" IsDefault="True" Click="SendButton_Click" Background="#FF1565C0" Foreground="White" BorderBrush="White" RenderTransformOrigin="-2.29,0.48" Grid.Column="1"/>
+        <TextBox x:Name="MessageTextBox" Height="23" Margin="10,0,-40.509,11" TextWrapping="Wrap" VerticalAlignment="Bottom" BorderBrush="#FF1565C0"/>
+        <Label x:Name="label" Margin="-10.243,4.183,10,0" VerticalAlignment="Top" FontSize="16" AutomationProperties.IsRequiredForForm="True" Content="" AutomationProperties.IsRowHeader="True" Grid.Column="1"/>
+        <ListBox x:Name="UsersListBox" Grid.Column="1" Margin="-17.059,76.941,10,54"/>
+        <Label x:Name="label1" Content="Users:" Grid.Column="1" HorizontalAlignment="Right" Margin="-17.059,50.981,99.065,0" VerticalAlignment="Top" Foreground="#FFFFF8F8" FontWeight="Bold" Width="57.994"/>
+
     </Grid>
 </Window>

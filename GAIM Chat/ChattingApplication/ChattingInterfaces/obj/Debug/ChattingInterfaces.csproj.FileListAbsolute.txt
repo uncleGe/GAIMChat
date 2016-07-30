@@ -3,3 +3,8 @@ C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication
 C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojResolveAssemblyReference.cache
 C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
 C:\Users\Ge\Documents\Other Code\Visual Studio 2015\Projects\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingInterfaces\bin\Debug\ChattingInterfaces.dll
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingInterfaces\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.dll
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingInterfaces\obj\Debug\ChattingInterfaces.pdb

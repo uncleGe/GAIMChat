@@ -12,3 +12,8 @@ C:\Users\Ge\Desktop\VSbackup\ChattingApplication2\ChattingApplication\ChattingSe
 C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.exe.config
 C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.exe
 C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.pdb
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.exe
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\bin\Debug\ChattingServer.pdb
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\bin\Debug\ChattingInterfaces.dll
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\bin\Debug\ChattingInterfaces.pdb
+C:\Users\Ge\Desktop\VSbackup\GAIM Chat\ChattingApplication\ChattingServer\obj\Debug\ChattingServer.csprojResolveAssemblyReference.cache
